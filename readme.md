@@ -1,5 +1,9 @@
 # Tildagon Bitmap Demo
 
+> Works as-is with a sparkly heart emoji.
+
+> Follow below instructions for your own image.
+
 1. Use the `utils/img2bitmap.py` tool in [st7789_mpy](https://github.com/russhughes/st7789_mpy) repo to convert your image to a compatible bitmap module
     - Paste the output of this into a new `.py` file inside your app directory, e.g. `heartimage.py`.
 2. Import your newly created bitmap module (e.g. `from . import heartimage as heartimage`) with the output inside this module
