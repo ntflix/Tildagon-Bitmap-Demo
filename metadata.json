@@ -1,0 +1,5 @@
+{
+  "name": "Heart",
+  "path": "apps.heart.app",
+  "callable": "HeartApp"
+}
