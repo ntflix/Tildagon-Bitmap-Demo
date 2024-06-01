@@ -21,6 +21,7 @@ class HeartApp(app.App):
         self.button_states = Buttons(self)
         eventbus.emit(PatternDisable())
         tildagonos.init_display()
+        self.draw_heart()
 
     def update(self, delta):
         if self.button_states.get(BUTTON_TYPES["RIGHT"]):
