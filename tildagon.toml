@@ -1,6 +1,6 @@
 [app]
 # The name of your app as displayed in the menu
-name = "Torch"
+name = "TildaGonCrazy"
 
 # The submenu where your app should appear.
 # One of: "Badge", "Music", "Media", "Apps", "Games"
@@ -28,13 +28,13 @@ author = "felixweber"
 license = "LGPL-3.0-only"
 
 # URL to the repository of your app.
-url = "https://www.github.com/hughrawlinson/tildagon-demo"
+url = "https://www.github.com/ntflix/Tildagon-Heart"
 
 # Description of your app.  Maximum 140 characters!
-description = "A torch! Press B to turn on and off."
+description = "Party LEDs! Press different buttons to find out."
 
 # Version number of your app.  If you push a commit where this number is
 # increased, we interpret this as a new version being released.
 #
 # Version number must be an integer!
-version = "0.4"
+version = "0.1"
