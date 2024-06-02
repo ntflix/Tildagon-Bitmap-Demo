@@ -28,7 +28,7 @@ author = "felixweber"
 license = "LGPL-3.0-only"
 
 # URL to the repository of your app.
-url = "https://www.github.com/ntflix/Tildagon-Heart"
+url = "https://github.com/ntflix/Tildagon-Bitmap-Demo"
 
 # Description of your app.  Maximum 140 characters!
 description = "Party LEDs! Press different buttons to find out."
